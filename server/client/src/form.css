@@ -1,0 +1,80 @@
+
+
+
+form{
+    margin-left: 70px;
+}
+
+.form-control{
+    width:250px;
+    margin-top: 10px;
+    margin-left: 50px;
+    display: inline!important;
+    border:0.5px solid #a9a9a9;
+}
+
+ label {
+    flex: 1;
+    text-align: center;
+     font-family: "Poppins", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+    padding: 20px;
+}
+
+ .form-grp input {
+    flex: 2;
+    padding: 5px;
+    text-align: center;
+    font-size: 1em;
+}
+#edu{
+    margin-left: 46px;
+}
+#loc{
+margin-left: 62px;
+}
+#email{
+    margin-left: 84px;
+}
+#day{
+    width:60px;
+    margin-left: 42px;
+}
+#month{
+    margin-left: 20px;
+    width:60px;
+}
+#year{
+    margin-left: 20px;
+    width:90px;
+}
+#about{
+    margin-left: 87px;
+ 
+}
+#lname{
+    margin-left: 44px;
+}
+#abo
+{
+    margin-top: 30px;
+    position: absolute;
+    left:-84px;
+}
+#about{
+    position: relative;
+}
+p{
+    color: red;
+    font-family: "Poppins", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+      padding: 2px;
+}
+.backbtn{
+    border-radius: 50%;
+    border: 0.5px white;
+    background-color: white;
+
+}
